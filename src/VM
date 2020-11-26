@@ -1,0 +1,10 @@
+VM - option for JavaFX:
+
+--module-path
+/Users/delalkesen/IdeaProjects/_external_libraries/javafx-sdk-11.0.2/lib
+--add-modules
+javafx.controls,javafx.fxml
+
+
+Link til "image/us.gif":
+http://liveexample.pearsoncmg.com/book/image/us.gif
